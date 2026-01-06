@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "僕は今日も",
+  "base_artist": "Vaundy",
+  "createdAt": "2026-01-06T09:53:59.199290Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "僕は今日も",
+      "artist": "VAUNDY",
+      "has_synced": true,
+      "path": "select/01_僕は今日も_VAUNDY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "僕は今日も - Boku wa kyo mo",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/02_僕は今日も_-_Boku_wa_kyo_mo_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "僕は今日も",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/03_僕は今日も_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "僕は今日も - Bokuwa Kyoumo",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/04_僕は今日も_-_Bokuwa_Kyoumo_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "僕は今日も",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/05_僕は今日も_Vaundy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕は今日も",
+      "artist": "Vaundy",
+      "has_synced": false,
+      "path": "select/pl_01_僕は今日も_Vaundy.txt"
+    }
+  ]
+}
